@@ -1,6 +1,13 @@
 @charset "utf-8";
 /* iMarc dogs in park stylesheet 2013 */
 
+
+/*base*/
+/*header*/
+/*torso*/
+/*footer*/
+
+/******************* base *******************/
 * {
 	border: 0;
 	font-size: 100%;
@@ -38,6 +45,9 @@ a {
 	height: 100%;
 	position: relative;
 }
+/******************* END base *******************/
+
+/******************* header *******************/
 
 #header {
 	height: 100px;
@@ -91,6 +101,9 @@ a {
 	height: 27px;
 	cursor: pointer;
 }
+/******************* END header *******************/
+
+/******************* torso *******************/
 
 #content {
 	clear: both;
@@ -145,11 +158,14 @@ span.bold {
 span.italic {
 	font-style: italic;
 }
+/******************* END torso *******************/
+
+/******************* footer *******************/
 
 #footer p {
 	text-align: center;
 	font-size: 1.4em;
 }
-
+/******************* END footer *******************/
 
 
