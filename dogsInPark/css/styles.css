@@ -75,7 +75,7 @@ a {
 
 #nav ul li {
 	display: inline-block;
-	line-style-type: none;
+	list-style-type: none;
 	vertical-align: middle;
 	padding: 7px;
 }
