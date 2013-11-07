@@ -141,7 +141,7 @@ a {
 	);
 	background-image: -o-linear-gradient(bottom, #7F7F7F 40%, #EAEAEA 100%);
 	background-image: -moz-linear-gradient(bottom, #7F7F7F 40%, #EAEAEA 100%);
-	background-image: -webkit-linear-gradient(bottom, #7F7F7F 40%, #EAEAEA 100%);
+	background-image: -webkit-linear-gradient(top, #7F7F7F 40%, #EAEAEA 100%);
 	background-image: -ms-linear-gradient(bottom, #7F7F7F 40%, #EAEAEA 100%);
 	background-image: linear-gradient(to bottom, #7F7F7F 40%, #EAEAEA 100%);
 }
